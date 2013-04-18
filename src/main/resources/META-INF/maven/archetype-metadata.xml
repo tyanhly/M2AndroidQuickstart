@@ -54,6 +54,20 @@
                 <include>**/*</include>
             </includes>
         </fileSet>
+        
+        <fileSet filtered="true" encoding="UTF-8">
+            <directory>gen</directory>
+            <includes>
+                <include>**/*</include>
+            </includes>
+        </fileSet>
+        
+        <fileSet filtered="true" encoding="UTF-8">
+            <directory>libs</directory>
+            <includes>
+                <include>**/*</include>
+            </includes>
+        </fileSet>
 
         <fileSet filtered="true" encoding="UTF-8">
             <directory></directory>
